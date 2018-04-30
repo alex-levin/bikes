@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Notes
+http://www.thejavageek.com/2017/04/02/using-angular-cli/
+
+ng generate component bike
+ng generate component bike-info
+ng generate class Bike
+ng generate service bike
+ng generate module app-routing
+ng generate component bikes
+npm install --save @angular/material @angular/cdk
+npm install --save hammerjs
+
+
+
